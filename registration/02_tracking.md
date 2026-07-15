@@ -62,6 +62,8 @@ Once you identify your incomplete badges, you can choose one of the following tw
 > [!TIP]
 > **Game Badges First!**
 > We highly recommend completing the **Game Badges** first, and then only moving ahead to complete the **Skill Badges**. Game badges are usually time-limited and crucial for building initial points, whereas skill badges require credit consumption and can be systematically earned afterwards.
+> 
+> **⚡ Fast-Track Skill Badges:** Unlike Game Badges (which require you to complete every single lab under the badge), you can earn **Skill Badges** instantly by skipping directly to the final **Challenge Lab**. Look for the challenge options on the GCSB course pages to save time and credits!
 
 ---
 
