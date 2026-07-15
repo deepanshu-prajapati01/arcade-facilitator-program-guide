@@ -19,12 +19,12 @@ graph TD
 
 ## 📂 Navigation & Resources
 
-| Phase | Description | Link | Status |
-| :--- | :--- | :---: | :---: |
-| **Step 00** | **Account Setup & Prerequisites** (GCSB setup, Public Profile, Developer Portal, & GEAR Badge) | [Go to Step 00 ➔](registration/00_setup.md) | 🟢 Complete |
-| **Step 01** | **Official Registration & Program Enrollment** | [Go to Step 01 ➔](registration/01_registration.md) | 🟢 Complete |
-| **Step 02** | **Badges Tracking & Milestone Guidelines** | [Go to Step 02 ➔](registration/02_tracking.md) | 🟢 Complete |
-| **Step 03** | **Lab Solutions & Walkthroughs** | [Go to Step 03 ➔](registration/03_solutions.md) | 🟡 Pending |
+| Phase       | Description                                                                                    |                        Link                        |   Status    |
+| :---------- | :--------------------------------------------------------------------------------------------- | :------------------------------------------------: | :---------: |
+| **Step 00** | **Account Setup & Prerequisites** (GCSB setup, Public Profile, Developer Portal, & GEAR Badge) |    [Go to Step 00 ➔](registration/00_setup.md)     | 🟢 Complete |
+| **Step 01** | **Official Registration & Program Enrollment**                                                 | [Go to Step 01 ➔](registration/01_registration.md) | 🟢 Complete |
+| **Step 02** | **Badges Tracking & Milestone Guidelines**                                                     |   [Go to Step 02 ➔](registration/02_tracking.md)   | 🟢 Complete |
+| **Step 03** | **Lab Solutions & Walkthroughs**                                                               |  [Go to Step 03 ➔](registration/03_solutions.md)   | 🟡 Pending  |
 
 ---
 

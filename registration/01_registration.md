@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) / [Step 00: Account Setup](00_setup.md) / **Step 01: Registration**
+
+---
+
 # Step 01: Official Registration & Credit Redemption
 
 Once you have set up all your accounts in [Step 00 (Account Setup)](00_setup.md), you are ready to officially register for the program and claim your learning credits.

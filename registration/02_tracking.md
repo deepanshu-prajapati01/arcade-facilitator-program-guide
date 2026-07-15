@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) / [Step 00: Account Setup](00_setup.md) / [Step 01: Registration](01_registration.md) / **Step 02: Tracking**
+
+---
+
 # Step 02: Progress Tracking & Badge Strategy
 
 To successfully complete the Arcade Facilitator Program, you need a way to track your points and systematically complete the required badges.
