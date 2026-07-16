@@ -2,6 +2,12 @@
 
 Welcome to the central repository and comprehensive documentation hub for the **Google Cloud Arcade Facilitator Program 2026**. This repository is designed to be your one-stop-shop, providing step-by-step instructions, account setup guidelines, badge tracking assistance, and solutions to help you successfully navigate the program.
 
+> [!IMPORTANT]
+> **License & Terms of Use**  
+> This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](LICENSE).
+> 
+> You are free to share and read this guide. However, under this license, you **must give appropriate credit**, you **cannot use this material for commercial purposes** (such as monetized YouTube videos, blogs, or paid courses), and if you remix/transform the material, you **cannot distribute the modified version**.
+
 ---
 
 ## 🗺️ Program Roadmap
@@ -10,21 +16,21 @@ Below is the structured path for the facilitator program. Ensure you complete ea
 
 ```mermaid
 graph TD
-    A[Step 00: Account Setup] -->|Prerequisites Met| B[Step 01: Official Registration]
-    B -->|Enrolled| C[Step 02: Completing Badges]
-    C -->|Fulfilling Milestones| D[Step 03: Lab Solutions & Graduation]
+    A[Step 0: Account Setup] -->|Prerequisites Met| B[Step 1: Official Registration]
+    B -->|Enrolled| C[Step 2: Completing Badges]
+    C -->|Fulfilling Milestones| D[Step 3: Lab Solutions & Graduation]
 ```
 
 ---
 
 ## 📂 Navigation & Resources
 
-| Phase       | Description                                                                                    |                        Link                        |   Status    |
-| :---------- | :--------------------------------------------------------------------------------------------- | :------------------------------------------------: | :---------: |
-| **Step 00** | **Account Setup & Prerequisites** (GCSB setup, Public Profile, Developer Portal, & GEAR Badge) |    [Go to Step 00 ➔](registration/00_setup.md)     | 🟢 Complete |
-| **Step 01** | **Official Registration & Program Enrollment**                                                 | [Go to Step 01 ➔](registration/01_registration.md) | 🟢 Complete |
-| **Step 02** | **Badges Tracking & Milestone Guidelines**                                                     |   [Go to Step 02 ➔](registration/02_tracking.md)   | 🟢 Complete |
-| **Step 03** | **Lab Solutions & Walkthroughs**                                                               |  [Go to Step 03 ➔](registration/03_solutions.md)   | 🟡 Pending  |
+| Phase | Description |
+| :--- | :--- |
+| [Step 0: Account Setup](registration/00_setup.md) | Prerequisites (GCSB setup, Public Profile, Developer Portal, & GEAR Badge) |
+| [Step 1: Registration](registration/01_registration.md) | Official Registration & Program Enrollment |
+| [Step 2: Badges Tracking](registration/02_tracking.md) | Badges Tracking & Milestone Guidelines |
+| [Step 3: Lab Solutions](registration/03_solutions.md) | Lab Solutions & Walkthroughs |
 
 ---
 

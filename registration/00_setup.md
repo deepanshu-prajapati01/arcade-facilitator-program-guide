@@ -1,8 +1,8 @@
-[🏠 Home](../README.md) / **Step 00: Account Setup**
+[🏠 Home](../README.md) / **Step 0: Account Setup**
 
 ---
 
-# Step 00: Account Setup & Prerequisites
+# Step 0: Account Setup & Prerequisites
 
 Before you can officially enroll in the Arcade Facilitator Program, you must set up your accounts and claim the prerequisite badges. 
 
@@ -79,4 +79,4 @@ Fill out the official Arcade registration form directly using this link:
 
 🎉 **Prerequisites Complete!** Once you have completed all the steps above, your accounts are ready. You are now prepared for the next phase:
 
-👉 **[Proceed to Step 01: Official Registration & Enrollment](01_registration.md)**
+👉 **[Proceed to Step 1: Official Registration & Enrollment](01_registration.md)**

@@ -1,10 +1,10 @@
-[🏠 Home](../README.md) / [Step 00: Account Setup](00_setup.md) / **Step 01: Registration**
+[🏠 Home](../README.md) / [Step 0: Account Setup](00_setup.md) / **Step 1: Registration**
 
 ---
 
-# Step 01: Official Registration & Credit Redemption
+# Step 1: Official Registration & Credit Redemption
 
-Once you have set up all your accounts in [Step 00 (Account Setup)](00_setup.md), you are ready to officially register for the program and claim your learning credits.
+Once you have set up all your accounts in [Step 0 (Account Setup)](00_setup.md), you are ready to officially register for the program and claim your learning credits.
 
 ---
 
@@ -21,7 +21,7 @@ Once you have set up all your accounts in [Step 00 (Account Setup)](00_setup.md)
    > [!IMPORTANT]
    > **Do Not Skip the Referral Code:** If you do not enter this referral code, you will **not** receive the credits required to complete the program's skill badges. Using the referral code unlocks up to **750 credits**.
 
-3. **Check Prerequisites:** The form will ask for the prerequisites (like the public GCSB profile and GEAR badge) that you already completed in [Step 00](00_setup.md). Fill in all required links carefully.
+3. **Check Prerequisites:** The form will ask for the prerequisites (like the public GCSB profile and GEAR badge) that you already completed in [Step 0](00_setup.md). Fill in all required links carefully.
 4. **Submit and Wait:** Ensure all information is correct and submit the form. It will take **24 to 48 hours** to receive your official confirmation email.
 
 ---
@@ -78,4 +78,4 @@ Once you receive your confirmation email (which will look like the screenshot be
 
 🎉 **Credits Added!** Once you see the credits reflected in your account, you are ready to start earning badges and tracking milestones.
 
-👉 **[Proceed to Step 02: Badges Tracking & Milestone Guidelines](02_tracking.md)**
+👉 **[Proceed to Step 2: Badges Tracking & Milestone Guidelines](02_tracking.md)**

@@ -1,8 +1,8 @@
-[🏠 Home](../README.md) / [Step 00: Account Setup](00_setup.md) / [Step 01: Registration](01_registration.md) / **Step 02: Tracking**
+[🏠 Home](../README.md) / [Step 0: Account Setup](00_setup.md) / [Step 1: Registration](01_registration.md) / **Step 2: Tracking**
 
 ---
 
-# Step 02: Progress Tracking & Badge Strategy
+# Step 2: Progress Tracking & Badge Strategy
 
 To successfully complete the Arcade Facilitator Program, you need a way to track your points and systematically complete the required badges.
 
@@ -17,7 +17,7 @@ For a quick, interactive visual dashboard of your profile stats, you can use the
 ### Step-by-Step Dashboard Setup:
 
 1. **Get Your GCSB Public Profile Link:** 
-   Recall the public profile link you generated during the account setup phase in [Step 00](00_setup.md).
+   Recall the public profile link you generated during the account setup phase in [Step 0](00_setup.md).
    
    ![Public Profile Link Reference](../screenshots/register/public-profile-link.png)
 
@@ -69,4 +69,4 @@ Once you identify your incomplete badges, you can choose one of the following tw
 
 🎉 **Tracking Set Up!** Now that you know how to track your progress and plan your badges, you are ready to tackle the labs.
 
-👉 **[Proceed to Step 03: Lab Solutions & Walkthroughs](03_solutions.md)**
+👉 **[Proceed to Step 3: Lab Solutions & Walkthroughs](03_solutions.md)**
