@@ -16,7 +16,9 @@ Until Google officially resolves this bug, you can use the workaround described 
 
 Here is a short screen recording showing how to apply the fix:
 
-👉 **[Watch the Walkthrough Video (fix-captcha.mp4)](../media/fix-captcha.mp4)**
+![Fix CAPTCHA Walkthrough GIF](../media/fix-captcha.gif)
+
+*(If the GIF above doesn't load, you can also [watch/download the raw MP4 video directly](../media/fix-captcha.mp4)).*
 
 ---
 
