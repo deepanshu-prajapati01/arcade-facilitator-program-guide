@@ -24,10 +24,10 @@ Before you can officially enroll in the Arcade Facilitator Program, you must set
 5. Scroll down to the public profile section and make your profile **PUBLIC**. This will generate a public profile URL where all your earned badges will be displayed.
 
 ### Visual Reference: Making Profile Public
-![Making Profile Public](../screenshots/register/make-profile-public.png)
+![Making Profile Public](../media/register/make-profile-public.png)
 
 ### Visual Reference: Public Profile Link
-![Public Profile Link](../screenshots/register/public-profile-link.png)
+![Public Profile Link](../media/register/public-profile-link.png)
 
 > [!NOTE]
 > This public profile URL is extremely important throughout the event. It is used to track and verify your progress in earning Arcade badges and showcases your Google Cloud Platform (GCP) skills. You can also add it to your LinkedIn profile to highlight your learning path!
@@ -60,7 +60,7 @@ Follow the steps below to claim your **Arcade - GEAR** digital badge:
 3. **Wait on Page:** Once the page loads, **wait for 10-15 seconds**. Do not navigate away and do not click anything.
 4. **Confirm Success Toast:** You will see a toast message at the bottom of the screen (similar to the screenshot below) confirming you have successfully earned the **Arcade - GEAR** badge.
    
-   ![Arcade GEAR Badge Toast](../screenshots/register/arcade_gear_badge_toast.png)
+   ![Arcade GEAR Badge Toast](../media/register/arcade_gear_badge_toast.png)
 5. **Verify Profile:** Click on **"View Profile"** to verify that the **Arcade - GEAR** badge is visible on your developer profile.
 
 ---

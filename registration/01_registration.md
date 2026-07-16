@@ -31,7 +31,7 @@ Once you have set up all your accounts in [Step 0 (Account Setup)](00_setup.md),
 Once you receive your confirmation email (which will look like the screenshot below), follow these steps to claim your credits.
 
 ### Visual Reference: Confirmation Mail Example
-![Confirmation Email](../screenshots/register/confirmation-mail.png)
+![Confirmation Email](../media/register/confirmation-mail.png)
 
 ---
 
@@ -46,7 +46,7 @@ Once you receive your confirmation email (which will look like the screenshot be
 
 2. **Enter the Code:** **Before logging in**, copy the unique redemption code from your email and paste it into the input dialog box on the page.
    
-   ![Credits Redeem Code Dialog](../screenshots/register/credits-redeem-code-sample.png)
+   ![Credits Redeem Code Dialog](../media/register/credits-redeem-code-sample.png)
 
 3. **Log In:** After pasting the code, log in to your GCSB account.
 4. **Check for 9 Credits:** Verify that your profile balance shows **9 credits**.

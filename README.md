@@ -1,6 +1,6 @@
 # 🎮 Google Cloud Arcade Facilitator Program 2026 - Ultimate Guide
 
-Welcome to the central repository and comprehensive documentation hub for the **Google Cloud Arcade Facilitator Program 2026**. This repository is designed to be your one-stop-shop, providing step-by-step instructions, account setup guidelines, badge tracking assistance, and solutions to help you successfully navigate the program.
+Welcome to the central repository and comprehensive documentation hub for the **Google Cloud Arcade Facilitator Program 2026**. This repository is designed to be your one-stop-shop, providing step-by-step instructions, account setup guidelines, and badge tracking assistance to help you successfully navigate the program.
 
 > [!IMPORTANT]
 > **License & Terms of Use**  
@@ -17,8 +17,7 @@ Below is the structured path for the facilitator program. Ensure you complete ea
 ```mermaid
 graph TD
     A[Step 0: Account Setup] -->|Prerequisites Met| B[Step 1: Official Registration]
-    B -->|Enrolled| C[Step 2: Completing Badges]
-    C -->|Fulfilling Milestones| D[Step 3: Lab Solutions & Graduation]
+    B -->|Enrolled| C[Step 2: Completing Badges & Graduation]
 ```
 
 ---
@@ -30,7 +29,7 @@ graph TD
 | [Step 0: Account Setup](registration/00_setup.md) | Prerequisites (GCSB setup, Public Profile, Developer Portal, & GEAR Badge) |
 | [Step 1: Registration](registration/01_registration.md) | Official Registration & Program Enrollment |
 | [Step 2: Badges Tracking](registration/02_tracking.md) | Badges Tracking & Milestone Guidelines |
-| [Step 3: Lab Solutions](registration/03_solutions.md) | Lab Solutions & Walkthroughs |
+| [Workaround: Fix CAPTCHA](guides/fix-captcha-issue.md) | Workaround for the GCSB reCAPTCHA dialog bug |
 
 ---
 
@@ -45,6 +44,6 @@ Before starting, please keep the following rules in mind:
 
 ## 🤝 Contribution & Feedback
 
-If you notice any outdated links, typos, or want to contribute lab solutions, feel free to open a Pull Request or raise an Issue in this repository.
+If you notice any outdated links, typos, or want to suggest improvements, feel free to open a Pull Request or raise an Issue in this repository.
 
 *Happy learning and facilitating!* 🚀
