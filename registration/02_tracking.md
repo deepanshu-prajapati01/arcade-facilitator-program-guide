@@ -34,6 +34,11 @@ For a quick, interactive visual dashboard of your profile stats, you can use the
    
    ![ArcadeCalc Profile Dashboard](../media/register/arcadecalc-dashboard.png)
 
+4. **Identify & Complete Incomplete Badges:**
+   Scroll down on your dashboard to find the **Incomplete Badges** section. This lists all the eligible badges remaining on Google Cloud Skills Boost that you need to complete. You can click directly on any badge in this list to open its course page on Google Cloud Skills Boost and complete it.
+   
+   ![Incomplete Badges Section](../media/register/arcadecalc-dashboard-incompletebadges.png)
+
 ---
 
 ## 🎯 Recommended Badge Strategy
